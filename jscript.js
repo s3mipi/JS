@@ -1,1 +1,1 @@
-allert("ROHIT");
+alert ("ROHIT");
